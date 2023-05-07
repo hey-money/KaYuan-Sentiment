@@ -1,5 +1,5 @@
 ## ECE4010 Project
- In this assignment, We develop a sentiment analysis program upon `KaYuan Fourm`.
+ In this assignment, We develop a sentiment analysis program upon `KaYuan Forum`.
 
 ### Dataset
 - Training/Validation dataset: [simplifyweibo_4_moods](https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/16c93E5x373nsGozyWevITg) (RATIO = 7:3)    
