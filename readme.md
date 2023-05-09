@@ -14,8 +14,12 @@ More than 360,000 posts with emotion tagging Sina Weibo, including 4 types of em
 
 ### How to execute:
 
-- **Training**: Execure Part A-E under `model.ipynb`.
+- **Training**: Execute Part A-E under `model.ipynb`.
 
-- **Testing**: Execure Part A-D&F under `model.ipynb`.
+- **Testing**: Execute Part A-D&F under `model.ipynb`.
 
 **Note**: As the embedding vector file is too large, please refer to the Tencent link and download the file on your own. The file, named `tencent-ailab-embedding-zh-d200-v0.2.0-s.tar.gz`, should be unzipped and placed under `/vector/` folder.
+
+### For improvemnt:
+- Try some newly-designed method, like self-attention, transformer or other LLM model. We only use simple GRU model limited by the GPU device.
+- Use another popular and accurate dataset.
